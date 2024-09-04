@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Oscar Pong\Documents\Coding Projects\Visual Studio Projects\Breakout Game\SDL2 Template\Math.hpp(43,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Oscar Pong\Documents\Coding Projects\Visual Studio Projects\Breakout Game\SDL2 Template\main.cpp(92,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SDL2 Template.vcxproj -> C:\Users\Oscar Pong\Documents\Coding Projects\Visual Studio Projects\Breakout Game\x64\Debug\SDL2 Template.exe
